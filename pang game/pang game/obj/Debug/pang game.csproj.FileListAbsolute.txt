@@ -1,0 +1,14 @@
+D:\OOP WINDOWFORMS\pang game\pang game\bin\Debug\pang game.exe.config
+D:\OOP WINDOWFORMS\pang game\pang game\bin\Debug\pang game.exe
+D:\OOP WINDOWFORMS\pang game\pang game\bin\Debug\pang game.pdb
+D:\OOP WINDOWFORMS\pang game\pang game\obj\Debug\pang game.csproj.AssemblyReference.cache
+D:\OOP WINDOWFORMS\pang game\pang game\obj\Debug\pang game.csproj.SuggestedBindingRedirects.cache
+D:\OOP WINDOWFORMS\pang game\pang game\obj\Debug\pang_game.Properties.Resources.resources
+D:\OOP WINDOWFORMS\pang game\pang game\obj\Debug\pang game.csproj.GenerateResource.cache
+D:\OOP WINDOWFORMS\pang game\pang game\obj\Debug\pang game.csproj.CoreCompileInputs.cache
+D:\OOP WINDOWFORMS\pang game\pang game\obj\Debug\pang game.exe
+D:\OOP WINDOWFORMS\pang game\pang game\obj\Debug\pang game.pdb
+D:\OOP WINDOWFORMS\pang game\pang game\obj\Debug\pang_game.Form1.resources
+D:\OOP WINDOWFORMS\pang game\pang game\bin\Debug\EZInput.dll
+D:\OOP WINDOWFORMS\pang game\pang game\bin\Debug\EZInput.xml
+D:\OOP WINDOWFORMS\pang game\pang game\obj\Debug\pang game.csproj.CopyComplete

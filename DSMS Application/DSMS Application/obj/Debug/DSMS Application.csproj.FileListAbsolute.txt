@@ -1,0 +1,21 @@
+D:\OOP WINDOWFORMS\DSMS Application\DSMS Application\bin\Debug\DSMS Application.exe.config
+D:\OOP WINDOWFORMS\DSMS Application\DSMS Application\bin\Debug\DSMS Application.exe
+D:\OOP WINDOWFORMS\DSMS Application\DSMS Application\bin\Debug\DSMS Application.pdb
+D:\OOP WINDOWFORMS\DSMS Application\DSMS Application\obj\Debug\DSMS Application.csproj.AssemblyReference.cache
+D:\OOP WINDOWFORMS\DSMS Application\DSMS Application\obj\Debug\DSMS Application.csproj.SuggestedBindingRedirects.cache
+D:\OOP WINDOWFORMS\DSMS Application\DSMS Application\obj\Debug\DSMS_Application.SignupPage.resources
+D:\OOP WINDOWFORMS\DSMS Application\DSMS Application\obj\Debug\DSMS_Application.Properties.Resources.resources
+D:\OOP WINDOWFORMS\DSMS Application\DSMS Application\obj\Debug\DSMS Application.csproj.GenerateResource.cache
+D:\OOP WINDOWFORMS\DSMS Application\DSMS Application\obj\Debug\DSMS Application.csproj.CoreCompileInputs.cache
+D:\OOP WINDOWFORMS\DSMS Application\DSMS Application\obj\Debug\DSMS Application.exe
+D:\OOP WINDOWFORMS\DSMS Application\DSMS Application\obj\Debug\DSMS Application.pdb
+D:\OOP WINDOWFORMS\DSMS Application\DSMS Application\obj\Debug\DSMS_Application.AdminMenu.resources
+D:\OOP WINDOWFORMS\DSMS Application\DSMS Application\obj\Debug\DSMS_Application.SignupMenu.resources
+D:\OOP WINDOWFORMS\DSMS Application\DSMS Application\obj\Debug\DSMS_Application.AddUser.resources
+D:\OOP WINDOWFORMS\DSMS Application\DSMS Application\obj\Debug\DSMS_Application.AddItem.resources
+D:\OOP WINDOWFORMS\DSMS Application\DSMS Application\obj\Debug\DSMS_Application.UpdateItem.resources
+D:\OOP WINDOWFORMS\DSMS Application\DSMS Application\obj\Debug\DSMS_Application.DeleteItem.resources
+D:\OOP WINDOWFORMS\DSMS Application\DSMS Application\obj\Debug\DSMS_Application.Sale.resources
+D:\OOP WINDOWFORMS\DSMS Application\DSMS Application\obj\Debug\DSMS_Application.BuyProduct.resources
+D:\OOP WINDOWFORMS\DSMS Application\DSMS Application\obj\Debug\DSMS_Application.CustomerMenu.resources
+D:\OOP WINDOWFORMS\DSMS Application\DSMS Application\obj\Debug\DSMS_Application.ViewProducts.resources

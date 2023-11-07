@@ -1,0 +1,14 @@
+D:\OOP WINDOWFORMS\MyGame\MyGame\bin\Debug\MyGame.exe.config
+D:\OOP WINDOWFORMS\MyGame\MyGame\bin\Debug\MyGame.exe
+D:\OOP WINDOWFORMS\MyGame\MyGame\bin\Debug\MyGame.pdb
+D:\OOP WINDOWFORMS\MyGame\MyGame\bin\Debug\EZInput.dll
+D:\OOP WINDOWFORMS\MyGame\MyGame\bin\Debug\EZInput.xml
+D:\OOP WINDOWFORMS\MyGame\MyGame\obj\Debug\MyGame.csproj.AssemblyReference.cache
+D:\OOP WINDOWFORMS\MyGame\MyGame\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+D:\OOP WINDOWFORMS\MyGame\MyGame\obj\Debug\MyGame.Form1.resources
+D:\OOP WINDOWFORMS\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+D:\OOP WINDOWFORMS\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.cache
+D:\OOP WINDOWFORMS\MyGame\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+D:\OOP WINDOWFORMS\MyGame\MyGame\obj\Debug\MyGame.csproj.CopyComplete
+D:\OOP WINDOWFORMS\MyGame\MyGame\obj\Debug\MyGame.exe
+D:\OOP WINDOWFORMS\MyGame\MyGame\obj\Debug\MyGame.pdb

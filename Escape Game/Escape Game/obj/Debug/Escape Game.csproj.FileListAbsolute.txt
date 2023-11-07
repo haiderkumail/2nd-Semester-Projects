@@ -1,0 +1,11 @@
+D:\OOP WINDOWFORMS\Escape Game\Escape Game\bin\Debug\Escape Game.exe.config
+D:\OOP WINDOWFORMS\Escape Game\Escape Game\bin\Debug\Escape Game.exe
+D:\OOP WINDOWFORMS\Escape Game\Escape Game\bin\Debug\Escape Game.pdb
+D:\OOP WINDOWFORMS\Escape Game\Escape Game\obj\Debug\Escape Game.csproj.AssemblyReference.cache
+D:\OOP WINDOWFORMS\Escape Game\Escape Game\obj\Debug\Escape Game.csproj.SuggestedBindingRedirects.cache
+D:\OOP WINDOWFORMS\Escape Game\Escape Game\obj\Debug\Escape_Game.Form1.resources
+D:\OOP WINDOWFORMS\Escape Game\Escape Game\obj\Debug\Escape_Game.Properties.Resources.resources
+D:\OOP WINDOWFORMS\Escape Game\Escape Game\obj\Debug\Escape Game.csproj.GenerateResource.cache
+D:\OOP WINDOWFORMS\Escape Game\Escape Game\obj\Debug\Escape Game.csproj.CoreCompileInputs.cache
+D:\OOP WINDOWFORMS\Escape Game\Escape Game\obj\Debug\Escape Game.exe
+D:\OOP WINDOWFORMS\Escape Game\Escape Game\obj\Debug\Escape Game.pdb
